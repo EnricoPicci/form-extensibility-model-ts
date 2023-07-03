@@ -1,0 +1,1 @@
+{"version":3,"file":"package.core.spec.js","sourceRoot":"","sources":["../src/package.core.spec.ts"],"names":[],"mappings":";;AAAA,+BAA8B;AAC9B,iDAAqD;AAErD,QAAQ,CAAC,qBAAqB,EAAE,GAAG,EAAE;IACjC,EAAE,CAAC,wBAAwB,EAAE,GAAG,EAAE;QAC9B,MAAM,MAAM,GAAG,IAAA,kCAAmB,GAAE,CAAC;QACrC,IAAA,aAAM,EAAC,OAAO,MAAM,CAAC,CAAC,KAAK,CAAC,QAAQ,CAAC,CAAC;IAC1C,CAAC,CAAC,CAAC;AACP,CAAC,CAAC,CAAC"}

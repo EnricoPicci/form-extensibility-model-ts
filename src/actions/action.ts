@@ -3,7 +3,6 @@ import {
   DynamicFormElement,
   DynamicFormElementType,
 } from '../form';
-import { DialogueState } from '../services/dialogue-state';
 
 export class Action extends DynamicFormElement {
   name: string;

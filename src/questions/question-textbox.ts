@@ -1,5 +1,4 @@
 import { QuestionBase, QuestionBaseOptions } from './question-base';
-import { DialogueState } from '../services/dialogue-state';
 import { BehaviourHandler } from '../form';
 
 export type TextboxQuestionOptions = QuestionBaseOptions<string> & {

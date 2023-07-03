@@ -3,7 +3,6 @@ import {
   DynamicFormElement,
   DynamicFormElementType,
 } from '../form';
-import { DialogueState } from '../services/dialogue-state';
 
 export type QuestionBaseOptions<T> = {
   value?: T;
