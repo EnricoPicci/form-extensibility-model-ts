@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Action = void 0;
-const form_1 = require("../form");
+const form_1 = require("../form/form");
 class Action extends form_1.DynamicFormElement {
     constructor(options) {
         super();

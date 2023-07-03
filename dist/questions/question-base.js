@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.QuestionBase = void 0;
-const form_1 = require("../form");
+const form_1 = require("../form/form");
 class QuestionBase extends form_1.DynamicFormElement {
     constructor(options = { key: '' }) {
         super();
