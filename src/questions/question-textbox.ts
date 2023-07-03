@@ -1,5 +1,5 @@
 import { QuestionBase, QuestionBaseOptions } from './question-base';
-import { BehaviourHandler } from '../form';
+import { BehaviourHandler } from '../form/form';
 
 export type TextboxQuestionOptions = QuestionBaseOptions<string> & {
   onBlurHandler?: BehaviourHandler;

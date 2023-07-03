@@ -1,5 +1,5 @@
 import { ReplaySubject, Subject } from 'rxjs';
-import { DynamicFormLayout } from '../form';
+import { DynamicFormLayout } from '../form/form';
 
 export class DialogueState {
   public dialogueName = 'No name set';

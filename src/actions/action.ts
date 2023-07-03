@@ -2,7 +2,7 @@ import {
   BehaviourHandler,
   DynamicFormElement,
   DynamicFormElementType,
-} from '../form';
+} from '../form/form';
 
 export class Action extends DynamicFormElement {
   name: string;

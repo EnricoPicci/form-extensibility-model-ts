@@ -1,7 +1,7 @@
-import { Action } from './actions/action';
-import { QuestionBase } from './questions/question-base';
+import { Action } from '../actions/action';
+import { QuestionBase } from '../questions/question-base';
 import { Section } from './section';
-import { DialogueState } from './services/dialogue-state';
+import { DialogueState } from '../services/dialogue-state';
 
 // ****************************************************
 // ********  Form Types *******************************
